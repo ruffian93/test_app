@@ -1,0 +1,10 @@
+.image-wrp img {
+	max-height: 200px;
+	max-width: 100%;
+}
+
+.image-wrp code {
+	overflow-y: scroll;
+	display: block;
+	height: 200px;
+}
